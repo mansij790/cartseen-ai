@@ -1,4 +1,4 @@
-# SmartGrocery AI
+# Cartseen AI
 
 AI grocery planner + price comparison + monthly budget manager for Indian customers.
 **All prices are demo data** ("Demo prices — connect live data sources for real-time pricing"). No platform is scraped.
